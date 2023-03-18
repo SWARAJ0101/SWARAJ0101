@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi, I'm [Swaraj Behera]!</h1>
+<h1 align="center">Hi, I'm [Swaraj ketan Behera]!</h1>
 
 <p align="center">
   <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-Me!-blue"></a>
