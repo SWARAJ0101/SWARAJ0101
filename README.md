@@ -4,6 +4,7 @@
 
 
 <h1 align="center">Hi, I'm [Swaraj ketan Behera]!</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif" >
 
 <p align="center">
   <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-Me!-blue"></a>
