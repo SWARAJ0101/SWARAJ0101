@@ -62,8 +62,8 @@
 <h2>📬 Get In Touch</h2>
 
 <p>
-  Email: <a href="swarajketanbehera@gmail.com">youremail@domain.com</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/swaraj-ketan-behera-7aa993232">https://linkedin.com/in/yourname</a><br>
+  Email: <a href="swarajketanbehera@gmail.com">swarajketanbehera@gmail.com</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/swaraj-ketan-behera-7aa993232">swaraj-ketan-behera-7aa993232</a><br>
   Twitter: <a href="#">@yourhandle</a>
 </p>
 
