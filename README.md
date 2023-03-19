@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi, I'm Swaraj ketan Behera !</h1>
+<h1 align="center">Hi, I'm Swaraj 🍁🍁</h1>
 
 
 <p align="center">
@@ -64,7 +64,7 @@
 <p>
   Email: <a href="swarajketanbehera@gmail.com">swarajketanbehera@gmail.com</a><br>
   LinkedIn: <a href="https://www.linkedin.com/in/swaraj-ketan-behera-7aa993232">swaraj-ketan-behera-7aa993232</a><br>
-  Twitter: <a href="#">@yourhandle</a>
+  Twitter: <a href="https://twitter.com/Swaraj2023?t=ig5IrizjE17KRaSTCI2EBw&s=08">Twitter</a>
 </p>
 
 <hr>
