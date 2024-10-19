@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java fullstack**
 
-- 👨‍💻 All of my projects are available at [https://swaraj010101portfolia.netlify.app/](https://swaraj010101portfolia.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://swarajbehera.netlify.app/](https://swarajbehera.netlify.app/)
 
 - 📫 How to reach me **swarajketanbehera@gmail.com**
 
