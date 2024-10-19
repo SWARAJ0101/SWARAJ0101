@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Swaraj 🍁🍁</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif" >
+<img align="right" border-radius: 5px; alt="Coding" width="350" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj0101&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj0101" /> </p>
 
